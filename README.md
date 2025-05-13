@@ -1,2 +1,2 @@
 # Eagler-Tester
-### Helping people get their EaglerCraft files on their Apple devices.
+### Helping people get their EaglerCraft on their Apple devices.
