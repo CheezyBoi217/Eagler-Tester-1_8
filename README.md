@@ -1,2 +1,2 @@
-# Eagler-Tester
-### Helping people get their EaglerCraft on their Apple devices.
+# Eagler
+### Working on Eaglercraft projects so you don't have to! 😃 🎉
